@@ -18,3 +18,5 @@ Java Swing kullanılarak geliştirilmiş, temel hesaplama işlemlerini kolayca y
 2.Projeyi IntelliJ IDEA veya herhangi bir Java IDE’sinde aç.
 
 3.Main class ile uygulama başlatılır. (Java 8 veya üstü)
+
+![Hesap Makinesi Ekranı](calc.png)
